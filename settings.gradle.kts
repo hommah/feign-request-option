@@ -1,1 +1,1 @@
-rootProject.name = "request-option-test"
+rootProject.name = "feign-request-option-example"
